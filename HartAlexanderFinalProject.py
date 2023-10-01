@@ -1,5 +1,11 @@
 # Alexander Hart 9/30/2023
 # This program keeps track of your paycheck. 
+# https://github.com/alexanderhart76/USPSInformationTracker
+
+
+# use functions when code is action focused 
+# use classes when code is state focused
+
 
 '''
 Every day I want to:
@@ -27,7 +33,9 @@ Taxes
 
 
 import tkinter as tk
+import datetime
 
+# variables
 
 clock_in = ''
 
@@ -38,4 +46,21 @@ lunch_break = ''
 route_number = ''
 
 truck_number = ''
+
+
+# Main window
+main_window = tk.Tk()
+main_window.title('USPS Tracker')
+main_window.mainloop()
+
+# Settings window 
+settings_window = tk.Tk()
+settings_window.title('Settings')
+
+
+# Calculates paycheck
+def calculate_paycheck():
+    return
+
+# Database
 
