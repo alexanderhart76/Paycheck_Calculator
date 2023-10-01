@@ -2,33 +2,33 @@
 
 I want to make an application that will help me with my current job as a mail carrier for the United States Postal Service. Since the post office is 40 years behind and does almost everything by paper, I need to make sure that they are calculating my paycheck correctly. They never do. So far I have been keeping track of my hours and everything else about the job on paper.
 
-Every day I want to:
+- Every day I want to:
 
-Input the time that I clocked in
+- Input the time that I clocked in
 
-Input the length of my lunch break, if I took one
+- Input the length of my lunch break, if I took one
 
-Input the route # for whatever route I delivered that day
+- Input the route # for whatever route I delivered that day
 
-Input the truck # that I took
+- Input the truck # that I took
 
-Input whatever notes I had along that route, such as problematic addresses 
+- Input whatever notes I had along that route, such as problematic addresses 
 
 I want it to output:
 
-Hours worked on a given day
+- Hours worked on a given day
 
-Hours worked on a given week
+- Hours worked on a given week
 
-Hours worked on a given month
+- Hours worked on a given month
 
-Hours worked total
+- Hours worked total
 
 It should calculate my pay on a given day, week, month, while taking into account 
 
-Overtime pay
-Hazard pay
-Taxes
+- Overtime pay
+- Hazard pay
+- Taxes
 
 I walk around with a gps tracker to map my routes. I am still thinking about whether or not I should do something with this. I have a third-party app that creates a map for me already in my browser, maybe I can import that data into the program?
 
